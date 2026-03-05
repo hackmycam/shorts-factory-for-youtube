@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.mp4
+output/
+final_video/
+pervious video/
+*.tflite
+*.task
+*.srt
+offsets.txt
+.env
